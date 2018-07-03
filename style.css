@@ -48,45 +48,6 @@ a:hover{text-decoration: none; cursor:pointer;}
 	padding:20px 50px;
 }
 
-/* = Full Width Blocs 
--------------------------------------------------------------- */
-
-.full-width-bloc{
-	padding-left:0;
-	padding-right:0;
-}
-.full-width-bloc .container{
-	width:100%;
-	max-width:100%!important;
-}
-.full-width-bloc .carousel img{
-	width:100%;
-	height:auto;
-}
-.full-width-bloc .navbar{
-	margin-left: 0px;
-	margin-right: 0px;
-}
-
-
-/* Group Styles */
-
-.bloc-group{
-	display:flex;
-}
-.bloc-tile-2{
-	width:50%;
-}
-.bloc-tile-3{
-	width:33.33333333%;
-}
-.bloc-tile-4{
-	width:25%;
-}
-.bloc-tile-2 .container, .bloc-tile-3 .container, .bloc-tile-4 .container{
-	width:100%;
-}
-
 
 /* Background Styles */
 
@@ -341,10 +302,6 @@ nav .caret{
 /* = Bric adjustment margins
 -------------------------------------------------------------- */
 
-.mg-sm{
-	margin-top:10px;
-	margin-bottom:5px;
-}
 .mg-md{
 	margin-top:10px;
 	margin-bottom:20px;
@@ -352,18 +309,6 @@ nav .caret{
 .mg-lg{
 	margin-top:10px;
 	margin-bottom:40px;
-}
-img.mg-sm,img.mg-md,img.mg-lg{
-	margin-top: 0;
-}
-img.mg-sm{
-	margin-bottom:10px;
-}
-img.mg-md{
-	margin-bottom:30px;
-}
-img.mg-lg{
-	margin-bottom:50px;
 }
 
 /* = Buttons
@@ -388,8 +333,8 @@ button{
 
 /* = Icons
 -------------------------------------------------------------- */
-.icon-md{
-	font-size:30px!important;
+.icon-lg{
+	font-size:60px!important;
 }
 .icon-round{
 	margin:0 auto;
@@ -408,16 +353,6 @@ button{
 	min-width: 162px;
 }
 
-/*  Rounded Image */
-.img-rd{
-	border-radius:6px;
-}
-.img-rd-md{
-	border-radius:20px;
-}
-.img-rd-lg{
-	border-radius:34px;
-}
 
 
 
@@ -507,12 +442,21 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .bgc-white{
 	background-color:#ffffff;
 }
+.bgc-rich-electric-blue{
+	background-color:#0098DB;
+}
+
+/* Text colour styles */
+
+.tc-white{
+	color:#ffffff!important;
+}
+.tc-rich-electric-blue{
+	color:#0098DB!important;
+}
 
 /* Bloc image backgrounds */
 
-.bg-h{
-	background-image:url("img/h.jpeg");
-}
 
 
 
