@@ -587,9 +587,6 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 
 /* Bloc image backgrounds */
 
-.bg-niño4{
-	background-image:url("img/niño4.jpg");
-}
 .bg-niño2{
 	background-image:url("img/niño2.jpg");
 }
@@ -601,6 +598,9 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .bg-niños3{
 	background-image:url("img/niños3.jpg");
+}
+.bg-niño4{
+	background-image:url("img/niño4.jpg");
 }
 
 
