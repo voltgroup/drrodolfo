@@ -38,9 +38,6 @@ a:hover{text-decoration: none; cursor:pointer;}
 
 /* Sizes */
 
-.bloc-xxl{
-	padding:200px 50px;
-}
 .bloc-xl{
 	padding:150px 50px;
 }
@@ -558,22 +555,31 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	color:#FFFFFF!important;
 }
 
+/* Link colour styles */
+
+.ltc-rich-electric-blue{
+	color:#0198DB!important;
+}
+.ltc-rich-electric-blue:hover{
+	color:#017aaf!important;
+}
+
 /* Bloc image backgrounds */
 
-.bg-bebe{
-	background-image:url("img/bebe.png");
+.bg-NINOSCORRIENDO{
+	background-image:url("img/NINOSCORRIENDO.png");
 }
-.bg-niños1{
-	background-image:url("img/niños1.jpg");
+.bg-ninasonriendo{
+	background-image:url("img/ninasonriendo.png");
 }
-.bg-niño5{
-	background-image:url("img/niño5.jpg");
-}
-.bg-niños3{
-	background-image:url("img/niños3.jpg");
+.bg-ninoscool{
+	background-image:url("img/ninoscool.png");
 }
 .bg-ninoprincipal{
 	background-image:url("img/ninoprincipal.png");
+}
+.bg-bebealergoclinic{
+	background-image:url("img/bebealergoclinic.png");
 }
 
 
