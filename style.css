@@ -563,9 +563,6 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .bg-bebe{
 	background-image:url("img/bebe.png");
 }
-.bg-niño2{
-	background-image:url("img/niño2.jpg");
-}
 .bg-niños1{
 	background-image:url("img/niños1.jpg");
 }
@@ -574,6 +571,9 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .bg-niños3{
 	background-image:url("img/niños3.jpg");
+}
+.bg-ninoprincipal{
+	background-image:url("img/ninoprincipal.png");
 }
 
 
